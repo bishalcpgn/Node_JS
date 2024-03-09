@@ -1,5 +1,4 @@
 import express from "express"
-// import mysql from "mysql2"
 import userRouter from "./routes/userRoutes.js"
 
 
